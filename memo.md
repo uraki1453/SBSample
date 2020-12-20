@@ -13,6 +13,13 @@ Gradle + Spring Boot + Eclipse
  9. https://spring.io/guides/gs/validating-form-input/
  10. https://kojion.com/posts/831
  
+ 11. http://reehappy.com/java008/
+ 12. http://namihira.hatenablog.com/entry/20160817/1471396975
+ 13. https://qiita.com/opengl-8080/items/4824d4a8c012f7ec53db
+ 14. https://penguinlabo.hatenablog.com/entry/springmybatissetting
+ 15. https://hi1280.hatenablog.com/entry/2014/02/24/012900
+ 16. https://tokkan.net/spring/mybatis1.html
+ 
 ## Gradle Install
  
 ### Macの場合
